@@ -1,11 +1,11 @@
-# 💫 About Me:
-Hi, I'm Anas 👋  
+# About Me:
+Hi, I'm Anas Khan  
 
 B.Tech Computer Science student building real-world systems across frontend, backend, and machine learning.  
-I focus on writing clean, structured code and deploying projects end-to-end — from UI to infrastructure.
+I focus on writing clean, structured code and deploying projects end-to-end from UI to infrastructure.
 
 Currently exploring:
-- 🧠 Computer Vision (Sign Language Recognition)
+- 🧠 Bakend Development
 - ⚙️ Backend APIs & System Design
 - 📊 Applied NLP using TensorFlow
 
@@ -50,8 +50,8 @@ Frontend-focused project with structured architecture and deployment via custom 
 ### 🤖 Anubis – Discord Bot  
 Slash-command based bot using async architecture and embedded UI responses.
 
-### 🧠 Sentiment Analysis (RNN)  
-Built and trained Simple RNN model in TensorFlow for sentiment classification.
+### 🧠 Sentiment Analysis (Transformers)  
+Built and trained Simple Transformer model in TensorFlow for sentiment classification.
 
 ---
 
